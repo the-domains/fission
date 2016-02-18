@@ -2,6 +2,7 @@ name: Fission
 favicon: null
 layout_spectrum: 0.56624
 typography_spectrum: 0.75285
+title: Fission
 cta:
   domain: null
   bucket: null
