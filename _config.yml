@@ -1,7 +1,7 @@
 name: Fission
 favicon: null
-layout_spectrum: 0.8299421847332269
-typography_spectrum: 0.6291362312622368
+layout_spectrum: 0.56624
+typography_spectrum: 0.75285
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.41767489328049123
+  brandStrength: 0.4375
   lightness: 0.1419199793599546
   saturation: 0.1782975618261844
   rhythmicContrast: 0.8174705237615854
